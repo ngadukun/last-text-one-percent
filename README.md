@@ -1,5 +1,9 @@
 # Last Text at One Percent
 
+[![make.fun · u-azazex-last-text-at-one-percent-ba9fc876](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
+[![rank](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/ngadukun/last-text-one-percent/rank.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
+[![reward](https://make.fun/badge/u-azazex-last-text-at-one-percent-ba9fc876/ngadukun/last-text-one-percent/reward.svg)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876?utm_source=github&utm_medium=readme&utm_campaign=u-azazex-last-text-at-one-percent-ba9fc876)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Bounty](https://img.shields.io/badge/bounty-make.fun-blue)](https://make.fun/bounty/u-azazex-last-text-at-one-percent-ba9fc876)
 [![Python](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/)
